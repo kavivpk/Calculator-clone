@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(42, 41, 41);
+}
+ .heading{
+    color: rgb(228, 220, 220);
+    font-family: sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+#display{
+    background-color: rgb(42, 41, 41);
+    width: 300px;
+    padding: 8px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.main-btn{
+    padding-top: 5px;
+}
+.btn-option{
+    color: aliceblue;
+    font-size: 18px;
+    width: 77px;
+    height: 50px; ;
+    border-radius: 5px;
+    background-color:rgb(59, 59, 60) ;
+ }
+ .btn-option:hover{
+    background-color:rgb(41, 41, 43) ;
+
+ }
+ .equal{
+    background-color: aqua;
+    font-size: 18px;
+    width: 77px;
+    height: 50px; ;
+    border-radius: 5px;
+ }
+ .equal:hover{
+    background-color:rgb(128, 223, 241) ;
+
+ }
+
