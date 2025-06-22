@@ -1,4 +1,0 @@
-this is main .txt file
-
-Then after the file can be added to the existing file ,we can check the file are tracked or not means using the command "git status"
-its can tracked means shows like that staging area
